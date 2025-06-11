@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ani/Documents/time-series-forecasting/mlruns/164764525511561339/aad7999a447243548ee4825e6af6b571/artifacts
+end_time: 1749658882711
+entry_point_name: ''
+experiment_id: '164764525511561339'
+lifecycle_stage: active
+run_id: aad7999a447243548ee4825e6af6b571
+run_name: no_weekly_seasonality
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749658882708
+status: 4
+tags: []
+user_id: ani
